@@ -1,0 +1,14 @@
+# Step-by-Step to Install Sass
+
+# Step 1: Install Node.js from https://nodejs.org/
+# Verify installation with:
+node -v
+npm -v
+
+# Step 2: Open Command Line Interface (CLI)
+
+# Step 3: Install Sass globally using npm:
+npm install -g sass@3.7.4
+
+# Step 4: Verify Sass installation:
+sass --version
